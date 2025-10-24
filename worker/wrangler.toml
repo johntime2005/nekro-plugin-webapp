@@ -11,7 +11,7 @@ workers_dev = true
 # ⚠️ 重要：请将 database_id 替换为你在 Cloudflare 创建的数据库 ID
 [[d1_databases]]
 binding = "DB"
-database_name = "webapp-db"
+database_name = nekro-webapp-db"
 database_id = "87199e3e-c51b-471d-a7d9-b294809f3525" # 请替换为你的 Database ID
 
 # 环境变量
